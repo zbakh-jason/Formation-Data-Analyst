@@ -1,8 +1,8 @@
-<img src='./OpenClassrooms.jpg' width=80x />
+<img src='./OpenClassrooms.jpg' width=80px />
 
 # 📂 Parcours Data Analyst - Projets Réalisés
 
-Ce répertoire regroupe les projets professionnalisants réalisés dans le cadre de ma certification *[Data Analyst](https://openclassrooms.com/fr/paths/1040-data-analyst)* (Niveau 6 - Bac+3/4) dispensé par OpenClassrooms.com
+Ce répertoire regroupe les projets professionnalisants réalisés dans le cadre de ma certification *[Data Analyst](https://openclassrooms.com/fr/paths/1040-data-analyst)* (Niveau 6 - Bac+3/4) dispensé par *[OpenClassrooms](https://openclassrooms.com/fr/about-us)*.
 
 Chaque projet simule une situation réelle en entreprise, couvrant le cycle complet de la donnée : de l'architecture SQL à la modélisation prédictive.
 
