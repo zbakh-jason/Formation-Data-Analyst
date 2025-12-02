@@ -47,12 +47,12 @@ Vue d'ensemble des technologies mobilisées sur l'ensemble des projets du parcou
 
 ## 📊 Business Intelligence & Dashboards
 
-### 🔹 [Projet 10 : Dashboard pour une ONG (Eau Potable)](./Projet_10_Etude_Eau_Potable/)
+### 🔹 [Projet 10 : Dashboard pour une ONG](./Projet_10_Etude_Eau_Potable/)
 **Contexte :** Une ONG veut visualiser l'accès à l'eau potable dans le monde.
 * **Mission :** Créer un tableau de bord interactif pour rendre la donnée accessible aux décideurs et raconter une histoire avec les données (Storytelling).
 * **Compétences :** Power BI, Design UX/UI, Storytelling de la donnée.
 
-### 🔹 [Projet 7 : Pilotage de projet (Power BI)](./Projet_07_Dashboard_Gestion_Projet/)
+### 🔹 [Projet 7 : Pilotage de projet](./Projet_07_Dashboard_Gestion_Projet/)
 **Contexte :** Une entreprise souhaite suivre l'avancement de ses projets internes.
 * **Mission :** Créer un outil de suivi dynamique pour identifier les retards et faciliter la gestion des ressources.
 * **Compétences :** Mesures DAX complexes, KPI de gestion, Power Query.
