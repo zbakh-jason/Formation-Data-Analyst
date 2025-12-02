@@ -26,9 +26,9 @@ Vue d'ensemble des technologies mobilisées sur l'ensemble des projets du parcou
 
 ---
 
-## 🚀 Projets Avancés (Machine Learning & Stats)
+## 🚀 Machine Learning & Stats
 
-### 🔹 [Projet 12 : Détection de faux billets (Algorithme)](./Projet_12_Detection_Faux_Billets/)
+### 🔹 [Projet 12 : Détection de faux billets](./Projet_12_Detection_Faux_Billets/)
 **Contexte :** Une organisation de lutte contre la fraude souhaite identifier les contrefaçons via un algorithme.
 * **Mission :** Construire un modèle de prédiction capable de distinguer automatiquement les vrais billets des faux à partir de leurs dimensions géométriques.
 * **Compétences :** Régression Logistique, K-Means (Clustering), Matrice de confusion, Scikit-learn.
@@ -80,7 +80,7 @@ Vue d'ensemble des technologies mobilisées sur l'ensemble des projets du parcou
 
 ## 🧹 Nettoyage & Analyse Exploratoire
 
-### 🔹 [Projet 6 : Optimisation de stock (Retail)](./Projet_06_Optimisation_Donnees_Boutique/)
+### 🔹 [Projet 6 : Optimisation de stock](./Projet_06_Optimisation_Donnees_Boutique/)
 **Contexte :** Une boutique physique souhaite rapprocher ses ventes et ses stocks web.
 * **Mission :** Nettoyer un jeu de données "sale", gérer les erreurs de saisie et les valeurs aberrantes (outliers) pour permettre l'analyse.
 * **Compétences :** Analyse univariée et bivariée, Nettoyage de données (Data Cleaning).
@@ -90,7 +90,7 @@ Vue d'ensemble des technologies mobilisées sur l'ensemble des projets du parcou
 * **Mission :** Manipuler des DataFrames complexes pour répondre à des questions de santé mondiale.
 * **Compétences :** Python bases, Pandas, Manipulation de fichiers CSV.
 
-### 🔹 [Projet 2 : Analyse de ventes (Excel)](./Projet_02_Analyse_Ventes_Excel/)
+### 🔹 [Projet 2 : Analyse de ventes](./Projet_02_Analyse_Ventes_Excel/)
 **Contexte :** Premier audit de ventes pour un e-commerce.
 * **Mission :** Synthétiser les résultats via des graphiques clairs.
 * **Compétences :** Tableaux Croisés Dynamiques, Graphiques Excel.
