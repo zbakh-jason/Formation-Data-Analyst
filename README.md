@@ -1,4 +1,6 @@
-<img src='./OpenClassrooms.jpg' width=80px />
+<div align="center">
+    <img src="./OpenClassrooms.jpg" width="300px" alt="Logo OpenClassrooms">
+</div>
 
 # 📂 Parcours Data Analyst - Projets Réalisés
 
@@ -12,7 +14,7 @@ Chaque projet simule une situation réelle en entreprise, couvrant le cycle comp
 
 Vue d'ensemble des technologies mobilisées sur l'ensemble des projets du parcours.
 
-| Outil / Techno | P12 (Fraude) | P11 (Marketing) | P10 (Eau/ONG) | P9 (Ventes) | P8 (RH/RGPD) | P7 (Gestion) | P6 (Retail) | P5 (Immo) | P4 (Santé) | P3 (Assu.) | P2 (E-com) |
+| Outil / Techno | Projet n°12 | Projet n°11 | Projet n°10 | Projet n°9 | Projet n°8 | Projet n°7 | Projet n°6 | Projet n°5 | Projet n°4 | Projet n°3 | Projet n°2 |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Python (Pandas)** | ✅ | ✅ | | ✅ | ✅ | | ✅ | | ✅ | | |
 | **Machine Learning**| ✅ | ✅ | | | | | | | | | |
