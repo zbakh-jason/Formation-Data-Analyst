@@ -1,4 +1,4 @@
-# 🏘️ Projet 6 : Créez et utilisez une base de données immobilières avec SQL
+# 🏘️ Projet 5 : Créez et utilisez une base de données immobilières avec SQL
 
 > **Création d'une base de données et analyse d'indicateurs pour le réseau Laplace Immo.**
 
