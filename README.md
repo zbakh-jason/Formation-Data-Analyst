@@ -4,9 +4,9 @@
 
 # 📂 Parcours Data Analyst - Projets Réalisés
 
-Ce répertoire regroupe les projets professionnalisants réalisés dans le cadre de ma certification *[Data Analyst](https://openclassrooms.com/fr/paths/1040-data-analyst)* (Niveau 6 - Bac+3/4) dispensé par *[OpenClassrooms](https://openclassrooms.com/fr/about-us)*.
+Ce répertoire regroupe les projets professionnalisants réalisés dans le cadre de ma certification *[Data Analyst](https://openclassrooms.com/fr/paths/1040-data-analyst)* (Niveau 6 - Bac+3/4) dispensée par *[OpenClassrooms](https://openclassrooms.com/fr/about-us)*.
 
-Chaque projet simule une situation réelle en entreprise, couvrant le cycle complet de la donnée : de l'architecture SQL à la modélisation prédictive.
+Chaque projet simule une situation réelle en entreprise, couvrant le cycle complet de la donnée : de l'architecture SQL à la modélisation prédictive en Machine Learning.
 
 ---
 
@@ -14,83 +14,83 @@ Chaque projet simule une situation réelle en entreprise, couvrant le cycle comp
 
 Vue d'ensemble des technologies mobilisées sur l'ensemble des projets du parcours.
 
-| Outil / Techno | Projet n°12 | Projet n°11 | Projet n°10 | Projet n°9 | Projet n°8 | Projet n°7 | Projet n°6 | Projet n°5 | Projet n°4 | Projet n°3 | Projet n°2 |
+| Outil / Techno | P12 | P11 | P10 | P9 | P8 | P7 | P6 | P5 | P4 | P3 | P2 |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Python (Pandas)** | ✅ | ✅ | | ✅ | ✅ | | ✅ | | ✅ | | |
+| **Python** | ✅ | ✅ | | ✅ | | | ✅ | | ✅ | | |
 | **Machine Learning**| ✅ | ✅ | | | | | | | | | |
 | **Statistiques** | | ✅ | | ✅ | | | ✅ | | | | |
 | **Power BI / DAX** | | | ✅ | | | ✅ | | | | | |
 | **SQL** | | | | | | | | ✅ | | ✅ | |
+| **KNIME (ETL)** | | | | | ✅ | | | | | | |
 | **Excel** | | | | | | | | | | | ✅ |
-| **Nettoyage (ETL)** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | | ✅ | | ✅ |
 
 ---
 
-## 🚀 Machine Learning & Stats
+## 🚀 Machine Learning & Statistiques
 
-### 🔹 [Projet 12 : Détection de faux billets](./Projet_12_Detection_Faux_Billets/)
-**Contexte :** Une organisation de lutte contre la fraude souhaite identifier les contrefaçons via un algorithme.
-* **Mission :** Construire un modèle de prédiction capable de distinguer automatiquement les vrais billets des faux à partir de leurs dimensions géométriques.
-* **Compétences :** Régression Logistique, K-Means (Clustering), Matrice de confusion, Scikit-learn.
+### 🔹 [Projet 12 : Détection de faux billets](./Projet_12_Detectez_des_faux_billets_avec_Python/)
+**Contexte :** L'ONCFM (lutte contre le faux-monnayage) souhaite industrialiser la détection des contrefaçons.
+* **Mission :** Développer un algorithme de classification (Supervisé et Non-supervisé) pour prédire l'authenticité des billets selon leurs dimensions.
+* **Compétences :** Régression Logistique, K-Means, Analyse en Composantes Principales (ACP), Scikit-learn.
 
-### 🔹 [Projet 11 : Étude de marché internationale](./Projet_11_Etude_Marche/)
-**Contexte :** Une entreprise d'agroalimentaire souhaite se développer à l'international.
-* **Mission :** Utiliser le clustering pour grouper les pays par similarité et utiliser une ACP (Analyse en Composantes Principales) pour visualiser les tendances du marché.
-* **Compétences :** Scipy, Dendrogramme, Classification Ascendante Hiérarchique (CAH), Nettoyage de données.
+### 🔹 [Projet 11 : Étude de marché internationale](./Projet_11_Produisez_une_etude_de_marche_avec_Python/)
+**Contexte :** L'entreprise agroalimentaire "La Poule qui Chante" veut exporter ses poulets à l'international.
+* **Mission :** Identifier les groupes de pays cibles via une analyse multivariée et classifier les marchés potentiels.
+* **Compétences :** Clustering (K-Means, CAH), Dendrogramme, PCA, Nettoyage de données FAO.
 
-### 🔹 [Projet 9 : Analyse des ventes d'une librairie](./Projet_09_Analyse_Ventes_Librairie/)
-**Contexte :** Audit de performance après 2 ans d'activité d'une librairie en ligne.
-* **Mission :** Analyser les indicateurs de vente (Chiffre d'Affaires, Panier moyen) et étudier le comportement des clients via des tests statistiques.
-* **Compétences :** Séries temporelles, Tests d'hypothèses (Pearson, Chi-2), Lorenz & Gini.
+### 🔹 [Projet 9 : Analyse des ventes d'une librairie](./Projet_09_Analysez_les_ventes_une_librairie_avec_Python/)
+**Contexte :** La librairie "Lapage" souhaite un audit de performance et une analyse du comportement client.
+* **Mission :** Analyser les indicateurs de vente (CA, Panier moyen) et vérifier les corrélations entre profils clients et achats.
+* **Compétences :** Séries temporelles, Tests statistiques (Pearson, Chi-2, ANOVA), Courbe de Lorenz & Gini.
 
 ---
 
 ## 📊 Business Intelligence & Dashboards
 
-### 🔹 [Projet 10 : Dashboard pour une ONG](./Projet_10_Etude_Eau_Potable/)
-**Contexte :** Une ONG veut visualiser l'accès à l'eau potable dans le monde.
-* **Mission :** Créer un tableau de bord interactif pour rendre la donnée accessible aux décideurs et raconter une histoire avec les données (Storytelling).
-* **Compétences :** Power BI, Design UX/UI, Storytelling de la donnée.
+### 🔹 [Projet 10 : Dashboard pour une ONG](./Projet_10_Faites_une_etude_sur_eau_potable/)
+**Contexte :** L'ONG "Drinking Water For All" veut piloter ses actions d'accès à l'eau potable.
+* **Mission :** Concevoir un tableau de bord mondial pour identifier les pays en crise (Santé/Sécurité/Eau).
+* **Compétences :** Power BI, Modélisation de données, Storytelling, UX/UI Design.
 
-### 🔹 [Projet 7 : Pilotage de projet](./Projet_07_Dashboard_Gestion_Projet/)
-**Contexte :** Une entreprise souhaite suivre l'avancement de ses projets internes.
-* **Mission :** Créer un outil de suivi dynamique pour identifier les retards et faciliter la gestion des ressources.
-* **Compétences :** Mesures DAX complexes, KPI de gestion, Power Query.
+### 🔹 [Projet 7 : Pilotage de projet](./Projet_07_Creez_un_tableau_de_bord_dynamique_avec_Power_BI/)
+**Contexte :** Le client "Sanitoral" souhaite suivre l'avancement de ses projets internes (PMO).
+* **Mission :** Créer un outil de suivi dynamique pour identifier les retards, les coûts et faciliter la gestion des ressources.
+* **Compétences :** Power Query, Mesures DAX complexes, Product Strategy Canvas.
 
-### 🔹 [Projet 8 : Analyse d'indicateurs RH & RGPD](./Projet_08_Indicateurs_Egalite/)
-**Contexte :** Un département RH doit analyser l'égalité femmes-hommes.
-* **Mission :** Préparer et nettoyer des données sensibles en respectant strictement le RGPD, puis calculer les indicateurs légaux.
-* **Compétences :** Anonymisation des données, Éthique de la data, Calculs d'écarts.
+### 🔹 [Projet 8 : Analyse d'indicateurs RH & RGPD](./Projet_08_Analysez_indicateurs_egalite_femmes_hommes_RGPD/)
+**Contexte :** Un cabinet de conseil audite l'égalité femmes-hommes d'une entreprise.
+* **Mission :** Construire un workflow ETL automatisé pour préparer les données RH et calculer l'Index Égalité (Score /100).
+* **Compétences :** KNIME (Low-code), Anonymisation (RGPD), Calculs d'indicateurs RH.
 
 ---
 
 ## 💾 Architecture de Données & SQL
 
-### 🔹 [Projet 5 : Base de données Immobilière](./Projet_05_BDD_Immobiliere_SQL/)
-**Contexte :** Une agence immobilière a besoin de structurer ses données.
-* **Mission :** Concevoir le schéma de la base (MCD/MLD), créer les tables et les peupler, puis effectuer des requêtes pour le business.
-* **Compétences :** Modélisation relationnelle, Dictionnaire de données, SQL (JOIN, Primary Keys).
+### 🔹 [Projet 5 : Base de données Immobilière](./Projet_05_Creez_et_utilisez_une_base_de_donnees_immobiliere_avec_SQL/)
+**Contexte :** Le réseau "Laplace Immo" a besoin de structurer ses données agences et biens.
+* **Mission :** Concevoir le modèle relationnel (MCD), implémenter la base de données et documenter les variables.
+* **Compétences :** Modélisation (3NF), Création de tables, Dictionnaire de données, SQL.
 
-### 🔹 [Projet 3 : Analyse de marché Assurances](./Projet_03_Requetes_SQL_Assurance/)
-**Contexte :** Une compagnie d'assurance veut analyser son portefeuille.
-* **Mission :** Charger des données et rédiger des scripts SQL pour extraire des statistiques clés.
-* **Compétences :** Requêtes d'agrégation (GROUP BY), Filtrage, Export de données.
+### 🔹 [Projet 3 : Analyse de marché Assurances](./Projet_03_Requetez_une_base_de_donnees_avec_SQL/)
+**Contexte :** Une compagnie d'assurance souhaite analyser son portefeuille clients.
+* **Mission :** Rédiger des requêtes SQL pour extraire des KPI et répondre aux questions de la direction.
+* **Compétences :** Requêtes d'agrégation (GROUP BY), Jointures, Filtrage complexe.
 
 ---
 
 ## 🧹 Nettoyage & Analyse Exploratoire
 
-### 🔹 [Projet 6 : Optimisation de stock](./Projet_06_Optimisation_Donnees_Boutique/)
-**Contexte :** Une boutique physique souhaite rapprocher ses ventes et ses stocks web.
-* **Mission :** Nettoyer un jeu de données "sale", gérer les erreurs de saisie et les valeurs aberrantes (outliers) pour permettre l'analyse.
-* **Compétences :** Analyse univariée et bivariée, Nettoyage de données (Data Cleaning).
+### 🔹 [Projet 6 : Optimisation de stock](./Projet_06_Optimisez_la_gestion_des_donnees_une_boutique_avec_Python/)
+**Contexte :** Le marchand de vin "Bottleneck" veut rapprocher son ERP de sa boutique en ligne.
+* **Mission :** Nettoyer et fusionner les exports (ERP/Web), détecter les valeurs aberrantes (outliers) et calculer le CA.
+* **Compétences :** Python (Pandas), Data Cleaning, Jointures (Merge), Détection d'outliers (IQR).
 
-### 🔹 [Projet 4 : Étude de Santé Publique](./Projet_04_Sante_Publique/)
-**Contexte :** Analyse des données de la FAO sur la sous-nutrition.
-* **Mission :** Manipuler des DataFrames complexes pour répondre à des questions de santé mondiale.
-* **Compétences :** Python bases, Pandas, Manipulation de fichiers CSV.
+### 🔹 [Projet 4 : Étude de Santé Publique](./Projet_04_Realisez_une_etude_de_sante_publique_avec_Python/)
+**Contexte :** Étude sur la sous-nutrition mondiale basée sur les données de la FAO.
+* **Mission :** Manipuler des DataFrames pour produire des indicateurs sur la disponibilité alimentaire et l'aide internationale.
+* **Compétences :** Python (Pandas/Numpy), Manipulation de données, Synthèse.
 
-### 🔹 [Projet 2 : Analyse de ventes](./Projet_02_Analyse_Ventes_Excel/)
-**Contexte :** Premier audit de ventes pour un e-commerce.
-* **Mission :** Synthétiser les résultats via des graphiques clairs.
-* **Compétences :** Tableaux Croisés Dynamiques, Graphiques Excel.
+### 🔹 [Projet 2 : Analyse de ventes](./Projet_02_Faites_une_analyse_de_ventes_pour_un_e-commerce/)
+**Contexte :** Analyse des ventes d'un site E-commerce pour la direction.
+* **Mission :** Synthétiser les résultats mensuels et identifier les tendances via des graphiques.
+* **Compétences :** Excel (Tableaux Croisés Dynamiques), Visualisation de données.
