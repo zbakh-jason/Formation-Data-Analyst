@@ -7,7 +7,6 @@ Ce projet consiste à unifier les données de gestion de stock (ERP) et de vente
 ---
 
 ## 🛠 Compétences Techniques (Hard Skills)
-* **Data Visualization :** Représentation graphique de la répartition des prix (Boxplot, Scatterplot) pour identifier les écarts.
 * **Nettoyage de données (Pandas) :** Traitement des fichiers, gestion des erreurs de saisie et vérification des clés primaires.
 * **Rapprochement de données (Merging) :** Fusion des exports ERP et Web via une table de liaison pour créer un jeu de données unique (`df_web_erp`).
 * **Analyse de données (Data Analysis) :** Calcul des indicateurs de vente et du chiffre d'affaires total.
